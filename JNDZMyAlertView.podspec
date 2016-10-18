@@ -10,7 +10,8 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
   s.source_files = 'JNDZMyAlertView/*.*'
   s.dependencies = {
-   'SnapKit' => ['0.19.1']
+   'SnapKit' => ['0.19.1'],
+   'JNDZTELDTOOL' => ['1.0.0']
    }
 
 end 
