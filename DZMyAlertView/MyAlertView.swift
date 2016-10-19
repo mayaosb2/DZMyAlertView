@@ -11,9 +11,8 @@
 3.在MyAlertView的延展里面写计算弹框高度的方法
 */
 import UIKit
-import SnapKit
-import MySwiftExtensions
 import JNDZTELDTOOL
+import MySwiftExtensions
 
 /**
  提示框类型的枚举

@@ -7,9 +7,8 @@
 //
 
 import UIKit
-import SnapKit
-import MySwiftExtensions
 import JNDZTELDTOOL
+import MySwiftExtensions
 
 /// 提示框内容视图基类
 class MyAlertContentView: UIView {
