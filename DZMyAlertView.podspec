@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
   s.source_files = 'DZMyAlertView/*.*'
   s.dependencies = {
-   'JNDZTELDTOOL' => [‘1.0.0']
+   'JNDZTELDTOOL' => ['1.0.0']
    }
 
 end 
